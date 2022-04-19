@@ -13,7 +13,7 @@ Run this command by:
 
 As an example:
 
-- on your Terminal, CMD, PowerShell: ``` python movieSpammer.py 5 5 ```
+- on your Terminal, CMD, PowerShell: ``` python movieSpammer.py Shrek-English.srt 5 5 ```
 
 ### Stop Code Execution
 click on your Terminal, CMD, PowerShell window and CTRL+C
