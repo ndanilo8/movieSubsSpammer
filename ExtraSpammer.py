@@ -12,7 +12,9 @@ import requests
 
 
 # TO RUN SPAMMER:
-# $ python spammer.py [mode: 1 or 2] [amount of msgs to spam] [interval between msgs ]
+# $ python spammer.py [mode: 1 or 2] [amount of msgs to spam] [interval between msgs in secs]
+# EXAMPLE
+# $ python spammer.py 1 100 .5
 
 
 word_site = "https://www.mit.edu/~ecprice/wordlist.10000"
