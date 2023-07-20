@@ -1,5 +1,5 @@
 # movieSubsSpammer
-Prank your friends with the subtitles of a movie of your choice. Files must be .srt extension
+Prank your friends with the subtitles of a movie of your choice. Files must be in .srt format
 
 ## Pre-requisites
 Run these commands on your Terminal, CMD, PowerShell, etc.. you just need to have python installed and on Path
